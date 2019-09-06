@@ -1,0 +1,8 @@
+﻿首先需要电脑上有安装python和java
+
+命令行用法
+inputPath = t.txt：包含所有需要的文本字符
+inputFont = xx.ttf: 需要瘦身的字体
+tempPath = ./ ：到处路径，默认到处到此目录下的output文件夹下
+
+python FontPruner.py --inputPath=t.txt --inputFont=DS-DIGIB.TTF --tempPath=./

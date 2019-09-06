@@ -76,7 +76,3 @@ if __name__ == '__main__':
   extractFileString(tmp)
   
   bulidNewFont(arguments['--inputFont'], tmp)
-
-  
-           
-    
